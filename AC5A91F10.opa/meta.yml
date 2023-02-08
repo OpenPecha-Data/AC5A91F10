@@ -1,0 +1,19 @@
+id: AC5A91F10
+title: Bodhisatvacaryānirdeśa
+type: translation
+pechas:
+- I9D6405E4
+- I3404E669
+- I4F44F4AD
+source_metadata:
+  languages:
+  - zh
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-02-08 14:57:00.843698
+  last_modified_at: 2023-02-08 14:57:00.843712
+alignment_to_base:
+  I9D6405E4/BC36: '9115'
+  I3404E669/AFBC: '9115'
+  I4F44F4AD/8A62: '9115'
